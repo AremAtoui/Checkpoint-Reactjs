@@ -1,0 +1,20 @@
+.Global {
+    margin: 100px;
+    padding: 40px;
+    background: pink;
+    border-radius: 40px;
+}
+
+.figure-img {
+    margin-bottom: .5rem;
+    line-height: 1;
+    width: 900px;
+    /* background: aquamarine; */
+}
+
+.figure-caption {
+    font-size: .875em;
+    color: #0d0d0e;
+    background: rgba(0, 0, 0, 0.125);
+    padding: 10px;
+}

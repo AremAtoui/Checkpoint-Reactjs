@@ -1,0 +1,30 @@
+.navbar {
+    justify-content: space-around;
+    background-color: aquamarine;
+}
+
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+    padding-left: 760px;
+
+}
+
+/* #root {
+    background: red !important;
+} */
+.Cards {
+    display: flex;
+    background: cadetblue;
+    margin-left: 100px;
+    background-size: 133px;
+    padding-left: 120px;
+    height: 641px;
+    padding-top: 30px;
+    padding-bottom: 47px;
+    /* background-size: 200px; */
+    margin-right: 100px;
+    /* margin-top: 100px; */
+    margin: 10px;
+    margin-top: 100px;
+}

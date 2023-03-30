@@ -1,0 +1,43 @@
+.w-100 {
+    width: 894px !important;
+}
+
+.d-block {
+    display: block !important;
+    /* background: aquamarine; */
+    /* background-size: 797px; */
+}
+
+.Emaa {
+    margin: 57px;
+    /* background: #842029; */
+    /* padding: 0px; */
+}
+
+.Big {
+    background: #055160;
+    width: 273px;
+    height: 229px;
+    margin: 130px;
+}
+
+/* .ALL{
+    display: flex;
+} */
+.Fa {
+    margin-top: 100px;
+    background: #00ffff29;
+    height: 578px;
+    width: 898px;
+    display: flex;
+    margin-left: 100px;
+}
+
+.ALL {
+    margin-top: 388px;
+    margin-left: 44px;
+}
+
+.card {
+    margin: 10px !important;
+}
